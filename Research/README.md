@@ -1,8 +1,8 @@
-# The Moustache
+# The Sword
 
-Moustaches come in all shapes, colours and sizes. Every moustache has its own history, story and message.
+Swords come in all shapes and sizes. Every Sword has its own history, style and use.
 
-These days, moustaches are even saving lives with the creation of Movember.
+These days, swords are not used for battle, but are still used in some areas of the world.
 
 ## Purpose
 
@@ -18,25 +18,26 @@ Jacob D Matte
 
 ## Target audience
 
-The website is targeted at moustache enthusiasts and  people who are interested in learning  more about where they come from and what styles can be achieved.
+The website is targeted at sword enthusiasts and  people who are interested in learning  more about where they come from, who used them, what kinds exist etc.
 
 - [Personas](Personas.md)
 
 ## Content sources
 
-- <https://http://en.wikipedia.org/wiki/Moustache>
+- <http://en.wikipedia.org/wiki/Sword>-
+- <http://blogs.scientificamerican.com/assignment-impossible/2012/11/15/the-science-of-swords-the-sound-of-approaching-doom/> 
 
 ## Sample article
 
-- <http://www.aljazeera.com/indepth/features/2013/09/20139894930627910.html>
+- <http://www.wikihow.com/Take-Care-of-Swords>
 
 ## Similar sites
 
-- <http://www.rd.com/slideshows/13-things-you-didnt-know-about-mustaches/>
-- <http://www.theatlantic.com/entertainment/archive/2010/09/20-mustaches-that-changed-history/63448/>
-- <http://www.americanmustacheinstitute.org/mustache-information/styles/>
-- <http://en.wikipedia.org/wiki/Movember>
-- <http://www.worldbeardchampionships.com>
+- <http://entertainment.howstuffworks.com/arts/circus-arts/sword-swallowing.htm>
+- <http://www.sword-buyers-guide.com/types-of-swords.html>
+- <http://en.wikipedia.org/wiki/List_of_historical_swords>
+- <http://en.wikipedia.org/wiki/List_of_fictional_swords>
+- <http://en.wikipedia.org/wiki/Blacksmith>
 
 ## To-do
 
