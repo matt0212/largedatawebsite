@@ -1,25 +1,25 @@
 # Personas
 
-## Miles
+## Patrick
 
 *21, male, single, college student*
 
-Miles is a young man who recently became able to grow a decent moustache. He has been wanting to participate in Movember for some time now and wants to figure out which moustache is best for him. Not only is he proud to be helping with a men's health charity, it is also making him take steps to better his own health. 
+Patrick is a young man attending college. He lives in the school residence with a room mate he just met. He likes to party and socialize, but he really enjoys his down time where he usually browses the web. He looks for weird and fun facts about everything. He recently watched Lord of the Rings and wants to know everything about swords. 
 
 **Personal goals**
 
-- To be a part of something important
-- Stay healthy and active for a long and healthy life
-- Be a little manlier
+- To be an encyclopedia of cool facts
+- Use his knowledge of everything to help meet people and make friends
 
 **Technology skills**
 
 - Can check e-mail, browse websites, shop online etc. 
-- Owns mobile phone and is up to date with most home/personal technologies 
+- Owns mobile phone + laptop and is up to date with most home/personal technologies 
 
 **Likes**
 
-- Fitting in and being cool (trends, social status...)
+- Humour/Comedy
+- Geeky things
 - Meeting new people and making new friends
 
 **Dislikes**
@@ -29,35 +29,36 @@ Miles is a young man who recently became able to grow a decent moustache. He has
 
 ### What would help?
 
-- Having a one stop spot for everything you could ever want to know about moustaches
-- Being able to donate directly to the charity from the same site
+- Having a one stop spot for everything you could ever want to know about swords
+- Simple visuals
 
 ---
 
 ## Desmond
 
-*55, male, divorced, retired, history buff*
+*55, male, retired, history buff, sword collector*
 
-Desmond loves history and loves to read. His spare time is spent reading interesting and unusual historical facts on a wide variety of subjects. He's one of those guys who knows everything but nothing very important.
+Desmond loves history and loves to read. His spare time is spent reading interesting and unusual historical facts on a wide variety of subjects. His passion is swords. He collects them and even owns a small blade shop. Some customers would like to learn more about swords and Desmond would like to be able to recommend a place to look for information.
 
 **Personal goals**
 
-- Gain knowledge
-- Stay occupied during uneventful days
+- Help his customers with everything they want to know
+- Improve his collection and grow his store/customer base
 
 **Technology skills**
 
 - New to social media but staying current
-- Has a smart phone, tablet, laptop
+- Has a smart phone, tablet, laptop (beginner)
 
 **Likes**
 
-- Quiet and alone time
-- Sharing cool facts with others
+- Meeting new people and making new friends
+- Educating people
+- Sharing his passion with others
 
 **Dislikes**
 
-- Not knowing stuff
+- Not having answers
 - Being wrong
 
 ### What would help?
