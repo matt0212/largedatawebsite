@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.list-group {
+	padding: 0;
+	list-style-type: none;
+}
+
+.list-group-item {
+	display: block;
+	padding: 0 5px;
+}
+
+.list-group-item-inline {
+	display: inline-block;
+}
