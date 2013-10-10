@@ -219,16 +219,54 @@ header {
 @media only screen and (min-width: 75em) {
 	
 	nav li {
-		margin-right: 3rem;
-	}
-	
-	nav li {
 		font-size: 1.25em;
-		margin-right: 2rem;
+		margin-right: 3rem;
 	}
 	
 	p {
 		font-size: 1.25em;
+		line-height: 2em;
+	}
+	
+}
+
+@media only screen and (min-width: 85em) {
+	
+	nav li {
+		font-size: 1.5em;
+		margin-right: 3rem;
+	}
+	
+	p {
+		font-size: 1.5em;
+		line-height: 2em;
+	}
+	
+}
+
+@media only screen and (min-width: 95em) {
+	
+	nav li {
+		font-size: 1.75em;
+		margin-right: 3rem;
+	}
+	
+	p {
+		font-size: 1.75em;
+		line-height: 2em;
+	}
+	
+}
+
+@media only screen and (min-width: 105em) {
+	
+	nav li {
+		font-size: 2em;
+		margin-right: 3rem;
+	}
+	
+	p {
+		font-size: 2em;
 		line-height: 2em;
 	}
 	
