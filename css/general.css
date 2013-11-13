@@ -68,6 +68,10 @@ body {
 	vertical-align: middle;
 }
 
+.bucket {
+	width: 100%;
+}
+
 nav ul {
 	list-style-type: none;
 	padding: 0;
@@ -142,6 +146,11 @@ header {
 		width: 60%;
 	}
 	
+	.bucket {
+		width: 50%;
+		margin-top: 1em;
+	}
+	
 }
 
 @media only screen and (min-width: 32em) {
@@ -210,6 +219,11 @@ header {
 		width: 33.333%;
 	}
 	
+	.bucket {
+		width: 33.33333%;
+		margin-top: 2em;
+	}
+	
 }
 
 @media only screen and (min-width: 56em) {
@@ -230,6 +244,10 @@ header {
 	p {
 		font-size: 1.25em;
 		line-height: 2em;
+	}
+	
+	.bucket {
+		margin-top: 4em;
 	}
 	
 }
