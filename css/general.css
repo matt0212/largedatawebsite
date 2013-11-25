@@ -112,6 +112,10 @@ header {
 	background-color: #FFBE00;
 }
 
+.bg-colour-2 {
+	background-color: #FFC;
+}
+
 @media only screen and (min-width: 20em) {
 	
 	.unit-s-4-5 {
