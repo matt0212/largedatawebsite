@@ -3,7 +3,7 @@
 # TEAM
 
 Designer & Developer: Jacob D Matte <hey@jmatte.ca>
-Site: matt0212.github.io/largedatawebsite
+Site: http://matt0212.github.io/largedatawebsite
 GitHub: https://github.com/matt0212
 Twitter: @jmatte
 Location: Ottawa, Canada
