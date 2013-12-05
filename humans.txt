@@ -2,17 +2,17 @@
 
 # TEAM
 
-Designer & Developer: Thomas J Bradley <hey@thomasjbradley.ca>
-Site: http://thomasjbradley.ca
-GitHub: https://github.com/thomasjbradley
-Twitter: @thomasjbradley
+Designer & Developer: Jacob D Matte <hey@jmatte.ca>
+Site: matt0212.github.io/largedatawebsite
+GitHub: https://github.com/matt0212
+Twitter: @jmatte
 Location: Ottawa, Canada
 
 ---
 
 # THANKS
 
-Icons from The Noun Project <http://thenounproject.com/>
+Wikipedia <http://wikipedia.org/>
 
 ---
 
@@ -21,11 +21,8 @@ Icons from The Noun Project <http://thenounproject.com/>
 ## Software
 
 - Sublime Text 3 (with Vintageous)
+- Adobe Dreamweaver CC
 - Git + GitHub
-- Grunt.js
-- CoffeeScript
-- Stylus
-- UglifyJS
 - Markdown
 
 ## Hosting
