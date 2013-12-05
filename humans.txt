@@ -27,4 +27,4 @@ Wikipedia <http://wikipedia.org/>
 
 ## Hosting
 
-- WiredTree <http://wiredtree.com>
+- GitHub <http://github.com>
