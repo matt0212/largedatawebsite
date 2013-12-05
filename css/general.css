@@ -116,6 +116,16 @@ header {
 	background-color: #FFF;
 }
 
+.centre {
+	background-color: #FFBE00;
+	padding: 20%;
+	text-align: center;
+}
+
+a {
+	color: #666;
+}
+
 @media only screen and (min-width: 20em) {
 	
 	.unit-s-4-5 {
